@@ -1,0 +1,10 @@
+nav a {
+  margin-right: 15px;
+  font-size: 20px;
+  font-weight: 700;
+
+  text-decoration: none;
+}
+nav {
+  text-align: end;
+}
