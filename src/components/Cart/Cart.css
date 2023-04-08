@@ -1,0 +1,34 @@
+.cart-container {
+  text-align: center;
+  border: 1px solid yellow;
+  height: 600px;
+  border-radius: 15px;
+  background-color: bisque;
+  position: sticky;
+  top: 10px;
+  font-size: 21px;
+  overflow-y: scroll;
+}
+.btn-dlt {
+  background-color: orangered;
+  border: 1px solid orangered;
+  border-radius: 30px;
+  padding: 8px 11px;
+}
+.btn-dlt:hover {
+  background-color: antiquewhite;
+  border: 2px solid;
+}
+
+.orange {
+  background-color: orange;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.bold {
+  font-size: blod;
+}
